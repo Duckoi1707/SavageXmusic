@@ -7,7 +7,7 @@
         "voice chat", 
         "telegram"
     ],
-    "repository": "https://github.com/The-tychon/savagexMusic",
+    "repository": "https://github.com/The-tychon/savageXmusic",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
