@@ -21,11 +21,11 @@ from Music.MusicUtilities.database.sudo import (get_sudoers, get_sudoers, remove
 def start_pannel():  
     buttons  = [
             [
-                InlineKeyboardButton(text="🎚 Commands Menu", url="https://telegra.ph/Mentos-Music-11-27")
+                InlineKeyboardButton(text="🎚 Commands Menu", url="https://telegra.ph/𓆩𝐱𝐃乛𝐓𝐘𝐂𝐇𝐨𝐍--‌𝐃𝐄𝐕𓆪-12-05-4")
             ],
             [ 
-                InlineKeyboardButton(text="📨Official Channel", url="https://t.me/xMentosUpdates"),
-                InlineKeyboardButton(text="📨Support Group", url="https://t.me/xMentosSupport")
+                InlineKeyboardButton(text="🔥Official Channel🔮", url="https://t.me/Electro_updates"),
+                InlineKeyboardButton(text="🔮Support Group🔥", url="https://t.me/Electrobot_Support")
             ],
     ]
     return "🎛  **This is Music Music Bot**", buttons
@@ -33,16 +33,16 @@ def start_pannel():
 pstart_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("💞 Sᴜᴍᴍᴏɴ Mᴇ 💞", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
+                    InlineKeyboardButton("🔥Add Me To Your Group🔥", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
                 ], 
-                [InlineKeyboardButton("🧰 Cᴏᴍᴍᴀɴᴅꜱ 🧰", url=f"https://telegra.ph/Chutuya-11-27")],
+                [InlineKeyboardButton("🧰 Cᴏᴍᴍᴀɴᴅꜱ 🧰", url=f"https://telegra.ph/𓆩𝐱𝐃乛𝐓𝐘𝐂𝐇𝐨𝐍--‌𝐃𝐄𝐕𓆪-12-05-4")],
                 [
                     InlineKeyboardButton(
-                        "📢 Uᴘᴅᴀᴛᴇꜱ 📢", url=f"https://t.me/xMentosUpdates"), 
+                        "🔮 Uᴘᴅᴀᴛᴇꜱ 🔥", url=f"https://t.me/Electro_Updates"), 
                     InlineKeyboardButton(
-                        "💬 Sᴜᴘᴘᴏʀᴛ 💬", url=f"https://t.me/xMentosSupport")
+                        "🔥 Sᴜᴘᴘᴏʀᴛ 🔮", url=f"https://t.me/Electrobot_Support")
                 ],
-                [ InlineKeyboardButton("🧑‍💻 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ 🧑‍💻", url=f"https://GitHub.com/ToxicCybers/MentosMusic"),]
+                [ InlineKeyboardButton("🔥Owner🎶", url=f"https://t.me/itz_me_tychon"),]
 
             ]
         )
