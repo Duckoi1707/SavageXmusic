@@ -33,17 +33,15 @@ def start_pannel():
 pstart_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🔥Add Me To Your Group🔥", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
+                    InlineKeyboardButton("🎵Thêm Bố Mày Vào Để 🎵Hát", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
                 ], 
-                [InlineKeyboardButton("🧰 Cᴏᴍᴍᴀɴᴅꜱ 🧰", url=f"https://telegra.ph/𓆩𝐱𝐃乛𝐓𝐘𝐂𝐇𝐨𝐍--‌𝐃𝐄𝐕𓆪-12-05-4")],
+                [InlineKeyboardButton("🧰 Lệnh Cơ Bản 🧰", url=f"https://telegra.ph/𓆩𝐱𝐃乛𝐓𝐘𝐂𝐇𝐨𝐍--‌𝐃𝐄𝐕𓆪-12-05-4")],
                 [
                     InlineKeyboardButton(
-                        "🔮 Uᴘᴅᴀᴛᴇꜱ 🔥", url=f"https://t.me/Electro_Updates"), 
+                        "🔮 Dev 🔥", url=f"https://t.me/oggyvn"), 
                     InlineKeyboardButton(
-                        "🔥 Sᴜᴘᴘᴏʀᴛ 🔮", url=f"https://t.me/Electrobot_Support")
-                ],
-                [ InlineKeyboardButton("🔥Owner🎶", url=f"https://t.me/itz_me_tychon"),]
-
+                        "🔥 Nhóm Update 🔮", url=f"https://t.me/wallemusic"),
+                
             ]
         )
 welcome_captcha_group = 2
