@@ -40,7 +40,8 @@ pstart_markup=InlineKeyboardMarkup(
                     InlineKeyboardButton(
                         "🔮 Dev 🔥", url=f"https://t.me/oggyvn"), 
                     InlineKeyboardButton(
-                        "🔥 Nhóm Update 🔮", url=f"https://t.me/wallemusic"),
+                        "🔥 Nhóm Update 🔮", url=f"https://t.me/wallemusic")
+                    ],
                 
             ]
         )
