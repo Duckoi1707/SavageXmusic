@@ -134,7 +134,7 @@ async def play(_, message: Message):
         fucksemx = 1
         what = "Audio Searched"
         await LOG_CHAT(message, what)
-        mystic = await message.reply_text(f"**🔄 𝙎𝙀𝙍𝙑𝙀𝙍 𝙎𝙇𝙊𝙒 𝙃𝘼 𝙒𝘼𝙄𝙏🤤 {username}**")
+        mystic = await message.reply_text(f"**🔄 Máy Chủ Phản Hồi Chậm🤤 {username}**")
         if audio.file_size > 157286400:
             await mystic.edit_text("Audio File Size Should Be Less Than 150 mb") 
             return
